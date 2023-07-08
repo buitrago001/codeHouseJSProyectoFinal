@@ -30,3 +30,15 @@ Prices should be adjusted base on user location (automatically or by user choice
 # Solution & Implementation
 
 # Additional Comments
+
+# Api - glosario
+
+Programacion Sincronica
+setTimeout
+callstack
+Event Loop
+Promesa
+.then()
+.catch()
+finally()
+Async - Await
